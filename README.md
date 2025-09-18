@@ -39,8 +39,8 @@ O objetivo principal é praticar conceitos de **orientação a objetos**, **mani
 ## 🛠 Tecnologias Utilizadas
 
 - **C#**  
-- **.NET SDK** (especifique a versão usada, ex: .NET 6.0)  
-- **Visual Studio** ou **VS Code** como IDE  
+- **.NET SDK** - 9.0
+- **VS Code**
 
 ---
 
@@ -57,7 +57,7 @@ O objetivo principal é praticar conceitos de **orientação a objetos**, **mani
 
 ## 📋 Pré-requisitos
 
-- .NET SDK — versão X.X
+- .NET SDK — versão 9.0
 - Editor/IDE (Visual Studio, VS Code)
 
 ---
@@ -65,4 +65,4 @@ O objetivo principal é praticar conceitos de **orientação a objetos**, **mani
 ## 📬 Contato
 
 - **Autor:** Victor Sampaio Silva
-- **LinkedIn:** (colocar depois)
+- **LinkedIn:** [(Perfil de Victor)](https://www.linkedin.com/in/victor-sampaio-silva-234893265/)
