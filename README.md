@@ -50,8 +50,7 @@ O objetivo principal é praticar conceitos de **orientação a objetos**, **mani
 /
 ├── Models/                          # Classes de modelo / entidades do domínio
 ├── Program.cs                       # Ponto de entrada da aplicação
-├── DesafioProjetoHospedagem.csproj  # Projeto .NET
-└── ...
+└── DesafioProjetoHospedagem.csproj  # Projeto .NET
 ```
 
 ---
